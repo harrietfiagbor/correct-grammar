@@ -1,0 +1,6 @@
+deepmultilingualpunctuation
+torch
+fasttext-langdetect
+autocorrect
+spellchecker
+pyspellchecker

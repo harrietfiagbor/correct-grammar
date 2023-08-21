@@ -1,0 +1,25 @@
+Title Investigation into Effects of Temperature Variation on Enzyme Activity
+
+Abstract
+this study aims to examine impact of temperature fluctuations on enzymatic activity of amylase an essential enzyme involved in starch digestion the experiment involved subjecting amylase to varying temperatures and measuring its catalytic efficiency using a spectrophotometer the results revealed an optimal temperature range for enzyme activity highlighting significance of temperature control in biochemical reactions
+
+Introduction
+enzymes are biological catalysts that play crucial role in accelerating chemical reactions within living organisms temperature among other factors significantly influences enzyme activity purpose of this experiment is to investigate relationship between temperature and enzyme function with focus on amylase an enzyme that hydrolyzes starch into glucose
+
+Methodology
+amylase extracted from saliva was exposed to range of temperatures from 10c to 70c and its activity was measured by observing rate of starch hydrolysis using spectrophotometer reaction rate was quantified by monitoring change in absorbance over time at fixed wavelength
+
+Results
+results indicated optimal temperature range for amylase activity between 35c and 40c where enzyme demonstrated highest catalytic efficiency outside this range enzyme's activity significantly decreased at lower temperatures enzyme-substrate interactions were sluggish while at higher temperatures denaturation occurred leading to loss of enzyme functionality
+
+Discussion
+observed trend of amylase activity with temperature variation can be attributed to enzyme's structure and its susceptibility to thermal energy enzymes are proteins with specific threedimensional structures and deviations from their optimal temperature range can disrupt hydrogen bonds and other noncovalent interactions that maintain their shape
+
+Conclusion
+this study underscores importance of temperature control in enzymatic reactions optimal temperature range for amylase activity aligns with human body temperature highlighting its adaptation to physiological conditions understanding relationship between temperature and enzyme activity is crucial not only for fundamental biochemical research but also for practical applications in various industries including food processing and pharmaceuticals
+
+Acknowledgments
+authors wish to acknowledge names of individuals or institutions for their valuable guidance and assistance in conducting this experiment
+
+References
+list of relevant literature sources cited in report
