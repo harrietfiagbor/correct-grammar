@@ -1,6 +1,5 @@
 deepmultilingualpunctuation
-torch
+fasttext==0.9.1
 fasttext-langdetect
 autocorrect
-spellchecker
 pyspellchecker
